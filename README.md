@@ -19,5 +19,13 @@ pip install tk requests pillow
 ## How to Run the code
 - Clone the Repo
   ```bash
-  
+  https://github.com/himanshukale159/Taza_Khabar.git
   ```
+- Run the news.py file
+  ```bash
+  python news.py
+  ```
+
+The application will fetch top headlines from the News API and display them in a Tkinter window. You can navigate through the headlines using the "Previous" and "Next" buttons. Clicking the "Read More" button will open the selected news article in your default web browser.
+
+Note: Make sure you have an internet connection to fetch the latest news from the News API.
